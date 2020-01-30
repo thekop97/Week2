@@ -1,2 +1,2 @@
-#Git & GitHub - Homework #1
-##Son and Andrew
+# Git & GitHub - Homework #1
+## Son and Andrew
